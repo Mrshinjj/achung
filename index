@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>피아이</title>
+
+    <meta property="og:title" content="251219_피아이공지">
+    <meta property="og:description" content="피아이공지">
+    <meta property="og:image" content="https://raw.githubusercontent.com/Mrshinjj/SANSUENG_GRPH/main/blank.png" />
+    <meta property="og:type" content="website">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #f7f7f7;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            margin: 20px 0;
+            border: 2px solid #ccc;
+            padding: 5px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+  <img src="https://raw.githubusercontent.com/Mrshinjj/SANSUENG_GRPH/main/AAA.png">
+</body>
+</html>
